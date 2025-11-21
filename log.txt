@@ -1,3 +1,5 @@
+eadf99f Task 2.3: Removing the frmt Variable
+492bd48 Task 2.2 log update
 729424b Task 2.2: Extracting Volume Credits
 8968816 Task 2.1 log update
 38cb3b3 Task 2.1: Extracting the switch statement logic
