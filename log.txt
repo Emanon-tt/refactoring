@@ -1,3 +1,5 @@
+729424b Task 2.2: Extracting Volume Credits
+8968816 Task 2.1 log update
 38cb3b3 Task 2.1: Extracting the switch statement logic
 7ce9ccb Task 1.2 update the git-log
 cd99f1f complete the Task 1.1
