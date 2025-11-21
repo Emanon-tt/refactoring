@@ -1,3 +1,5 @@
+38cb3b3 Task 2.1: Extracting the switch statement logic
+7ce9ccb Task 1.2 update the git-log
 cd99f1f complete the Task 1.1
 2b4f164 fixed tests for the not-for-credit tasks; parameter ordering and ensuring consistent line endings.
 ff5004e adding shortcut keys for Inline Variable (Re: Piazza question)
